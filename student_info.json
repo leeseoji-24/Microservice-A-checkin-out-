@@ -1,0 +1,10 @@
+{
+    "status": "success",
+    "message": "Checked-in users retrieved successfully.",
+    "data": [
+        {
+            "name": "seojin lee",
+            "timestamp": "11:29 PM"
+        }
+    ]
+}
